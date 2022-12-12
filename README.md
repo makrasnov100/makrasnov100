@@ -25,4 +25,4 @@ In addition to being part of an amazing team responsible for developing the indu
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=makrasnov100&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?theme=github_dark&username=makrasnov100&count_private=true)
