@@ -12,37 +12,37 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/robosquare.png" alt="RoboSquare Icon">
-<h3>RoboSquare 🤖 <a src="https://store.steampowered.com/app/1427760/RoboSquare">PC - Steam</a> </h3>
+<h3>RoboSquare 🤖 <a href="https://store.steampowered.com/app/1427760/RoboSquare">PC - Steam</a> </h3>
 <p>Desktop party game with a battle-bots inspired PVP arena gameplay. </p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/pym.png" alt="PYM Icon">
-<h3>PYM 🎶 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.youth">Android</a> | <a src="https://apps.apple.com/us/app/pym-pilgrim-youth-ministries/id1584725525">iOS</a> </h3>
+<h3>PYM 🎶 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.youth">Android</a> | <a href="https://apps.apple.com/us/app/pym-pilgrim-youth-ministries/id1584725525">iOS</a> </h3>
 <p>Software and utilities for creating, editing, and syncing songs/events for a local youth group. <i>Created for Pilgrim Youth Ministries.</i></p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/voice_of_pilgrim.png" alt="The Voice of Pilgrim Icon">
-<h3>The Voice of Pilgrim 📻 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.radio2">Android</a> | <a src="https://apps.apple.com/us/app/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC%D0%B0/id1514027262">iOS</a> </h3>
+<h3>The Voice of Pilgrim 📻 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.radio2">Android</a> | <a href="https://apps.apple.com/us/app/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC%D0%B0/id1514027262">iOS</a> </h3>
 <p>Mobile app for listening to online christian radio stations. <i>Created for Pilgrim Slavic Baptist Church.</i></p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/sandbox_anything.png" alt="Sandbox Anything Icon">
-<h3> Sandbox Anything 🧩 <a src="https://store.steampowered.com/app/1054370/Sandbox_Anything/">PC - Steam</a> </h3>
+<h3> Sandbox Anything 🧩 <a href="https://store.steampowered.com/app/1054370/Sandbox_Anything/">PC - Steam</a> </h3>
 <p>Multiplayer desktop puzzle game with a unique spring physics dragging mechanic.</p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/imago_spectrum.png" alt="Imago Spectrum Icon">
-<h3>Imago Spectrum 🎥 <a src="https://www.youtube.com/c/ImagoSpectrum">YouTube</a> </h3>
+<h3>Imago Spectrum 🎥 <a href="https://www.youtube.com/c/ImagoSpectrum">YouTube</a> </h3>
 <p>Automated video pipeline for generating English word definition explainers.</p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/answer_me.png" alt="Answer Me Icon">
-<h3>Answer Me 🙋🏼 <a src="https://play.google.com/store/apps/details?id=com.myfortuna.answer_me">Android</a> </h3>
+<h3>Answer Me 🙋🏼 <a href="https://play.google.com/store/apps/details?id=com.myfortuna.answer_me">Android</a> </h3>
 <p>Mobile app for asking and answering everyday questions.</p>
 
 &nbsp;
