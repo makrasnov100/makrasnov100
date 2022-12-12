@@ -19,7 +19,7 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/pym.png" alt="PYM Icon">
 <h3>PYM 🎶 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.youth">Android</a> | <a href="https://apps.apple.com/us/app/pym-pilgrim-youth-ministries/id1584725525">iOS</a> </h3>
-<p>Software and utilities for creating, editing, and syncing songs/events for a local youth group. <i>Created for Pilgrim Youth Ministries.</i></p>
+<p>Software for creating, editing, and syncing songs/events for a local youth group. <i>Created for Pilgrim Youth Ministries.</i></p>
 
 &nbsp;
 
