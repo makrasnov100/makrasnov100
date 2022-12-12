@@ -25,7 +25,7 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/voice_of_pilgrim.png" alt="The Voice of Pilgrim Icon">
 <h3>The Voice of Pilgrim 📻 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.radio2">Android</a> | <a href="https://apps.apple.com/us/app/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC%D0%B0/id1514027262">iOS</a> </h3>
-<p>Mobile app for listening to online christian radio stations. <i>Created for Pilgrim Slavic Baptist Church.</i></p>
+<p>Mobile app for listening to online Christian radio stations. <i>Created for Pilgrim Slavic Baptist Church.</i></p>
 
 &nbsp;
 
