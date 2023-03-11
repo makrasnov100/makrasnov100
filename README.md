@@ -17,6 +17,12 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 
 &nbsp;
 
+<img style="margin-right:16px;margin-left:16px;" align="left" src="assets/tegra.png" alt="Tegra Icon">
+<h3>Tegra 📂 <a href="https://store.steampowered.com/app/1427760/RoboSquare">Android</a> </h3>
+<p>File job manager for mobile users wanting to set up repeatable file transfers.</p>
+
+&nbsp;
+
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/pym.png" alt="PYM Icon">
 <h3>PYM 🎶 <a href="https://play.google.com/store/apps/details?id=com.pilgrim.youth">Android</a> | <a href="https://apps.apple.com/us/app/pym-pilgrim-youth-ministries/id1584725525">iOS</a> </h3>
 <p>Software for creating, editing, and syncing songs/events for a local youth group. <i>Created for Pilgrim Youth Ministries.</i></p>
