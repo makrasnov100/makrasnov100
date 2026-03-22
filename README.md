@@ -7,24 +7,24 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/picabook.png" alt="PicaBook Icon">
 <h3>PicaBook 🎨  <a href="https://play.google.com/store/apps/details?id=com.myfortuna.picabook">Android</a> | <a href="https://apps.apple.com/us/app/picabook-picture-book-creator/id1643338958">iOS</a> </h3>
-<p>Subscription based story book creation and sharing platform for families. Scaled to thousands of active users monthly. </p>
+<p>Subscription based story book creation and sharing platform for families. Scaled to thousands of active users monthly.</p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/carmark.png" alt="CarMark Icon">
 <h3>CarMark 🚗 <a href="https://play.google.com/store/apps/details?id=app.myfortuna.car_mark">Android</a> | <a href="https://apps.apple.com/us/app/carmark-scan-for-damage/id6751136041">iOS</a> </h3>
-<p>Mobile app using custom encoder-decoder neural net trained in-house, powering the ability to highlight paint damage in car inspection photos.</p>
+<p>Mobile app using custom encoder-decoder neural net trained in-house to highlight paint damage, enhances car inspections.</p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/robosquare.png" alt="RoboSquare Icon">
 <h3>RoboSquare 🤖 <a href="https://store.steampowered.com/app/1427760/RoboSquare">PC - Steam</a> </h3>
-<p>Desktop party game with a battle-bots inspired PVP arena gameplay. Heavy steam integrations and multiplayer optimizations.</p>
+<p>Multiplayer desktop party game with a battle-bots inspired PVP arena gameplay.</p>
 
 &nbsp;
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/sandbox_anything.png" alt="Sandbox Anything Icon">
-<h3> Sandbox Anything 🧩 <a href="https://store.steampowered.com/app/1054370/Sandbox_Anything/">PC - Steam</a> </h3>
+<h3>Sandbox Anything 🧩 <a href="https://store.steampowered.com/app/1054370/Sandbox_Anything/">PC - Steam</a> </h3>
 <p>Multiplayer desktop puzzle game with a unique spring physics dragging mechanic.</p>
 
 &nbsp;
