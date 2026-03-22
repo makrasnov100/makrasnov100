@@ -13,7 +13,7 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/carmark.png" alt="CarMark Icon">
 <h3>CarMark 🚗 <a href="https://play.google.com/store/apps/details?id=app.myfortuna.car_mark">Android</a> | <a href="https://apps.apple.com/us/app/carmark-scan-for-damage/id6751136041">iOS</a> </h3>
-<p>Mobile app using custom encoder-decoder neural net trained in-house, powering the ability to highlight paint damage in car inspections photos.</p>
+<p>Mobile app using custom encoder-decoder neural net trained in-house, powering the ability to highlight paint damage in car inspection photos.</p>
 
 &nbsp;
 
@@ -50,12 +50,6 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/answer_me.png" alt="Answer Me Icon">
 <h3>Answer Me 🙋🏼 <a href="https://play.google.com/store/apps/details?id=com.myfortuna.answer_me">Android</a> </h3>
 <p>Mobile app for asking and answering everyday questions.</p>
-
-&nbsp;
-
-<img style="margin-right:16px;margin-left:16px;" align="left" src="assets/tegra.png" alt="Tegra Icon">
-<h3>Tegra 📂 <a href="https://store.steampowered.com/app/1427760/RoboSquare">Android</a> </h3>
-<p>File job manager for mobile users wanting to set up repeatable file transfers.</p>
 
 &nbsp;
 
