@@ -13,7 +13,7 @@ In addition to being part of an 🔥 amazing team 🔥 responsible for developin
 
 <img style="margin-right:16px;margin-left:16px;" align="left" src="assets/carmark.png" alt="CarMark Icon">
 <h3>CarMark 🚗 <a href="https://play.google.com/store/apps/details?id=app.myfortuna.car_mark">Android</a> | <a href="https://apps.apple.com/us/app/carmark-scan-for-damage/id6751136041">iOS</a> </h3>
-<p>Mobile app using custom encoder-decoder neural net trained in-house to highlight paint damage, enhances car inspections.</p>
+<p>Mobile app using a custom encoder-decoder neural net to highlight paint damage, enhances car inspection quality.</p>
 
 &nbsp;
 
